@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\bin\Debug\StudentRegistrationApplication_Ardena.exe.config
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\bin\Debug\StudentRegistrationApplication_Ardena.exe
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\bin\Debug\StudentRegistrationApplication_Ardena.pdb
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\obj\Debug\StudentRegistrationApplication_Ardena.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\obj\Debug\StudentRegistrationApplication_Ardena.Form1.resources
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\obj\Debug\StudentRegistrationApplication_Ardena.Properties.Resources.resources
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\obj\Debug\StudentRegistrationApplication_Ardena.csproj.GenerateResource.cache
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\obj\Debug\StudentRegistrationApplication_Ardena.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\obj\Debug\StudentRegistrationApplication_Ardena.exe
+C:\Users\User\source\repos\StudentRegistrationApplication_Ardena\obj\Debug\StudentRegistrationApplication_Ardena.pdb
