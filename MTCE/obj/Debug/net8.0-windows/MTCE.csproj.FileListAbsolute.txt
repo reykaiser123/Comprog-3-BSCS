@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MTCE\bin\Debug\net8.0-windows\MTCE.exe
+C:\Users\User\source\repos\MTCE\bin\Debug\net8.0-windows\MTCE.deps.json
+C:\Users\User\source\repos\MTCE\bin\Debug\net8.0-windows\MTCE.runtimeconfig.json
+C:\Users\User\source\repos\MTCE\bin\Debug\net8.0-windows\MTCE.dll
+C:\Users\User\source\repos\MTCE\bin\Debug\net8.0-windows\MTCE.pdb
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\MTCE.Form1.resources
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\MTCE.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\MTCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\MTCE.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\MTCE.AssemblyInfo.cs
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\MTCE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\MTCE.dll
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\refint\MTCE.dll
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\MTCE.pdb
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\MTCE.genruntimeconfig.cache
+C:\Users\User\source\repos\MTCE\obj\Debug\net8.0-windows\ref\MTCE.dll
